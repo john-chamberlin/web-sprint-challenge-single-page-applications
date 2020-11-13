@@ -1,0 +1,9 @@
+.form-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    margin:.5rem;
+}
